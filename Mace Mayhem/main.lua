@@ -6,9 +6,6 @@ local PlaceName     = Hub.PlaceName
 
 add_menu_text(PlaceName)
 
-add_menu_text(PlaceName)
-
-
 local mm = add_page("Player", buttonIcons.Other)
 mm:add_hint("MACE")
 
