@@ -2,6 +2,9 @@ local Hub = ...
 local add_page      = Hub.add_page
 local add_menu_text = Hub.add_menu_text
 local buttonIcons   = Hub.buttonIcons
+local PlaceName     = Hub.PlaceName
+
+add_menu_text(PlaceName)
 
 add_menu_text(PlaceName)
 
